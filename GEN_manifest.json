@@ -1,0 +1,13 @@
+{
+  "namespace": "slenered",
+  "name": "LC_Lives",
+  "authorName": "slenered",
+  "description": "Adds lives to Lethal Company for parties less than four.",
+  "version_number": "%%",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+    "Sigurd-CSync-5.0.1"
+  ],
+  "website_url": "",
+  "FullName": "slenered-LC Lives"
+}
